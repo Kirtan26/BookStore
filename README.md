@@ -10,8 +10,6 @@ A simple web application for managing a book store, built using Spring Boot and 
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
